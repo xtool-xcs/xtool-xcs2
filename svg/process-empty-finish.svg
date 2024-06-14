@@ -1,0 +1,14 @@
+<svg width="236" height="120" viewBox="0 0 236 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="90" y="22" width="70" height="80" rx="0.2" fill="#D6DAE1"/>
+<rect x="102" y="91" width="52" height="6" fill="#EEEFF4"/>
+<path d="M96 27.2C96 27.0895 96.0895 27 96.2 27H153.8C153.91 27 154 27.0895 154 27.2V91H96V27.2Z" fill="#FAFAFA"/>
+<path d="M102 97C105.314 97 108 94.3137 108 91H96C96 94.3137 98.6863 97 102 97Z" fill="#FAFAFA"/>
+<path d="M154 97C157.314 97 160 94.3137 160 91H148C148 94.3137 150.686 97 154 97Z" fill="#EEEFF4"/>
+<rect x="104" y="24.5352" width="42.4278" height="6.49862" rx="0.2" transform="rotate(-0.0560114 104 24.5352)" fill="#EEEFF4"/>
+<circle cx="124.5" cy="24.5" r="6.5" fill="#EEEFF4"/>
+<circle cx="124.5" cy="61.5" r="14.5" fill="#28BE44"/>
+<path d="M119 61.7528L123.453 66.0541L130.757 59" stroke="currentColor" stroke-width="2" stroke-linecap="square"/>
+<path d="M83.5 25L85.7958 31.2042L92 33.5L85.7958 35.7958L83.5 42L81.2042 35.7958L75 33.5L81.2042 31.2042L83.5 25Z" fill="#FFEF49"/>
+<path d="M150 74L151.891 79.1094L157 81L151.891 82.8906L150 88L148.109 82.8906L143 81L148.109 79.1094L150 74Z" fill="#FFEF49"/>
+<path d="M103.893 84.6621C103.893 84.6621 85.0215 75.7553 89.6306 60.2842C92.5985 50.2185 99.6738 57.6797 94.7321 61.9614C88.0834 67.7504 79.9491 59.0932 83.0221 48.1839" stroke="#231815" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/>
+</svg>

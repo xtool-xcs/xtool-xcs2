@@ -1,0 +1,1 @@
+import{messageManager as a}from"./main-f7BGirYr.js";import{onMounted as n,onUnmounted as s}from"./importmap-vue-u6Q_1Jji.js";function t(e,o){n(()=>{a.addMessageCallback(e,o)}),s(()=>{a.removeMessageCallback(e)})}export{t as useMessage};

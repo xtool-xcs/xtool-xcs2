@@ -1,0 +1,11 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="msg_error" clip-path="url(#clip0_3022_51105)">
+<path id="Rectangle 240647429" d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z" fill="#FA2730"/>
+<path id="Vector 825 (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M6.87465 5.54919L9.99968 8.67419L13.1246 5.54919L14.4505 6.87501L11.3255 10L14.4505 13.125L13.1246 14.4508L9.99968 11.3258L6.87465 14.4508L5.54883 13.125L8.67386 10L5.54883 6.87503L6.87465 5.54919Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_3022_51105">
+<rect width="20" height="20" fill="white"/>
+</clipPath>
+</defs>
+</svg>

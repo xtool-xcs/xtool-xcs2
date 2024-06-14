@@ -1,0 +1,12 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="msg_warming" clip-path="url(#clip0_3022_51109)">
+<path id="Rectangle 240647429" d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z" fill="#FF7C23"/>
+<path id="Vector 825 (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M10.9375 4.0625V11.4375H9.0625V4.0625H10.9375Z" fill="white"/>
+<path id="Vector 826 (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M10.9375 12.8125V15.1875H9.0625V12.8125H10.9375Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_3022_51109">
+<rect width="20" height="20" fill="white"/>
+</clipPath>
+</defs>
+</svg>

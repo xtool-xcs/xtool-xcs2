@@ -1,0 +1,19 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M13 3H11V5H13V3Z" fill="#1A1A1E"/>
+<path d="M15 5H17V3H15V5Z" fill="#1A1A1E"/>
+<path d="M19 3V5H21V4C21 3.44772 20.5523 3 20 3H19Z" fill="#1A1A1E"/>
+<path d="M21 7H19V9H21V7Z" fill="#1A1A1E"/>
+<path d="M21 11H19V13H21V11Z" fill="#1A1A1E"/>
+<path d="M21 15H19V17H21V15Z" fill="#1A1A1E"/>
+<path d="M21 19H19V21H20C20.5523 21 21 20.5523 21 20V19Z" fill="#1A1A1E"/>
+<path d="M17 21V19H15V21H17Z" fill="#1A1A1E"/>
+<path d="M13 21V19H11V21H13Z" fill="#1A1A1E"/>
+<path d="M9 21V19H7.0625V21H9Z" fill="#1A1A1E"/>
+<path d="M5 21V19H3V20C3 20.5523 3.44772 21 4 21H5Z" fill="#1A1A1E"/>
+<path d="M3 17H5V15H3V17Z" fill="#1A1A1E"/>
+<path d="M3 13H5V11H3V13Z" fill="#1A1A1E"/>
+<path d="M3 9H5V7H3V9Z" fill="#1A1A1E"/>
+<path d="M3 5H5V3H4C3.44772 3 3 3.44772 3 4V5Z" fill="#1A1A1E"/>
+<path d="M7.0625 3V5H9V3H7.0625Z" fill="#1A1A1E"/>
+<path d="M7.0625 7.0625H17V17H7.0625V7.0625Z" fill="#1A1A1E"/>
+</svg>
